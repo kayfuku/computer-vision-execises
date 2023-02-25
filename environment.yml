@@ -14,4 +14,6 @@ dependencies:
   - numpy
   - matplotlib
   - autopep8
+  - requests
+  - seaborn
 prefix: /Users/kei/miniconda3/envs/cv-nd
